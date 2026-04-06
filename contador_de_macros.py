@@ -124,4 +124,4 @@ for valor, clave in macros_totales.items():
 
 for clave in macros_totales:
   macros_totales += macros_tomadas
-  print(clave[macros totales])
+  print(clave[macros_totales])
